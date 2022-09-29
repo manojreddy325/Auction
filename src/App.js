@@ -1,11 +1,10 @@
-import logo from './img/assets1.jpg';
 import './App.css';
+import NavBar from './components/NavBar'
 
 function App() {
   return (
     <div className="App">
-      <h1>My Auction Project</h1>
-      <img src={logo} alt="logo" />
+     <NavBar />
     </div>
   );
 }
