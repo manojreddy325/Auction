@@ -1,0 +1,43 @@
+.home-container{
+    /* background-image: url('https://res.cloudinary.com/dqsporrgm/image/upload/v1662804038/red-yellow-watercolor_95678-448_otm6yx.jpg');
+    background-size: cover;
+    height:100vh; */
+    display:flex;
+    flex-direction: column;
+    padding:10px;
+}
+.home-sub-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.content-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+}
+.auction-heading{
+    font-size: 36px;
+    font-family:"serif";
+    font-weight: bold;
+    color:#0066ff;
+}
+.greeting-bidder{
+    font-size: 28px;
+    font-family:'serif';
+    font-weight: bold;
+    /* color:#336699; */
+    color: black;
+}
+.bidder-message{
+    font-size: 18px;
+    font-family:'Times New Roman';
+    color:black;
+}
+.side-image{
+    height:450px;
+    width:600px;
+    padding:20px;
+}

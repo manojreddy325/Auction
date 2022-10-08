@@ -1,0 +1,72 @@
+.auction-types-container{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    /* background-color: #66ccff; */
+    height:100vh;
+}
+.heading{
+    font-size: 22px;
+    font-family:"Roboto";
+    /* font-weight: bold; */
+    color:#00264d;
+    margin: 30px;
+}
+.first-container{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    /* background-color: #669999; */
+    background-color: #e6f6ff;
+}
+.second-container{
+    display: flex;
+    flex-direction: row;
+    margin:10px;
+}
+.image-container{
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    height:210px;
+    width:250px;
+    padding: 10px;
+    text-align: center;
+    margin:10px;
+}
+.bank-heading{
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color:blueviolet;
+    margin: 5px;
+}
+.link-style{
+    text-decoration: none;
+}
+.bank-logo{
+    height:200x;
+    width:200px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.police-logo{
+    height:350x;
+    width:230px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 25px;
+}
+.painting-logo{
+    height:200x;
+    width:200px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.rent-cars-logo{
+    height:100x;
+    width:150px;
+    border-radius: 10px;
+    cursor: pointer;
+}
