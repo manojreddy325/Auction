@@ -1,0 +1,54 @@
+.bank-auction-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e6f6ff;
+    /* height:100vh; */
+    padding:10px;
+}
+.auction-card-item {
+    text-align: center;
+    background-color: white;
+    width: 280px;
+    height:280px;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.auction-card-name {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #616e7c;
+    margin: 3px;
+}
+
+.auction-card-price {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 15px;
+    color: #323f4b;
+}
+
+.auction-card-image {
+    height: 160px;
+    width: 200px;
+}
+.see-more-btn{
+    height:28px;
+    width: 86px;
+    background-color:#ff5050;
+    color:white;
+    border:none;
+    border-radius: 5px;
+}
+.buy-btn{
+    height:28px;
+    width: 86px;
+    background-color:#ff5050;
+    color:white;
+    border:none;
+    border-radius: 5px;
+    margin-left: 10px;
+}

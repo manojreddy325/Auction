@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import './index.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const AuctionTypes = () => {
     return (

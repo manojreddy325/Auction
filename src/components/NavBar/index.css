@@ -38,11 +38,11 @@
     font-family: 'Roboto';
   text-decoration: none;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 19px;
   cursor: pointer;
   color: #475569;
 }
-ul li:hover {color: #cc66ff;}
+ul li:hover {color: #ff3300;}
 .nav-menu{
     display: flex;
     flex-direction: row;
