@@ -12,7 +12,7 @@ const Home = () => {
                     <p className="greeting-bidder">Hello Bidder Welcome !!!</p>
                     <p className="bidder-message">Here we are serving different types of auctions <br /> to see that magic please click the below button.</p>
                     <Link to='/auctiontypes'>
-                        <button className="btn btn-primary">Take me to auctions types</button>
+                        <button className="btn btn-primary">Go to auctions </button>
                     </Link>
                 </div>
                 <div>

@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const BankAuctions = () => {
     return (
-        <div className="bank-auction-container">
+        <div className="banks-auction-container">
             <div class="d-flex flex-row justify-content-center">
                 <div class="auction-card-item">
                     <img src="https://res.cloudinary.com/dqsporrgm/image/upload/v1663147963/240_F_65444581_E3Ter0oOm5kuGIOZmPLqEOshZEAEDITH_hnfa1y.jpg"
